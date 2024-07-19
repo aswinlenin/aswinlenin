@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aswinlenin
 - 👀 I’m interested in ...networking
-- 🌱 I’m currently learning ...ccna
-- 💞️ I’m looking to collaborate on ...cisco
+- 🌱 I’m currently learning ...aws
+- 💞️ I’m looking to collaborate on ...google
 - 📫 How to reach me ...email
 
 <!---
